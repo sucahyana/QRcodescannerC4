@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonScan" type="id" />
+    <item name="textViewNama" type="id" />
+    <item name="textViewKelas" type="id" />
+    <item name="textViewNIM" type="id" />
+</resources>
