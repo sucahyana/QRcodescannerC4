@@ -29,7 +29,7 @@
             android:id="@+id/textViewNama"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/sud_ulam_cahyana"
+            android:text="Scan Nama"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
 
         <TextView
@@ -41,7 +41,7 @@
             android:id="@+id/textViewKelas"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/ti_21_c4"
+            android:text="Scan Kelas"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
 
         <TextView
@@ -53,7 +53,7 @@
             android:id="@+id/textViewNIM"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/_312110246"
+            android:text="Scan NIM"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
 
     </LinearLayout>
